@@ -11,8 +11,8 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/projectdiscovery/naabu/v2/pkg/port"
-	"github.com/projectdiscovery/naabu/v2/pkg/result/confidence"
+	"github.com/ducksify/naabu/v2/pkg/port"
+	"github.com/ducksify/naabu/v2/pkg/result/confidence"
 	"golang.org/x/exp/maps"
 )
 

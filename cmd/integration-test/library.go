@@ -9,10 +9,10 @@ import (
 	"time"
 
 	"github.com/armon/go-socks5"
-	"github.com/projectdiscovery/naabu/v2/internal/testutils"
-	"github.com/projectdiscovery/naabu/v2/pkg/privileges"
-	"github.com/projectdiscovery/naabu/v2/pkg/result"
-	"github.com/projectdiscovery/naabu/v2/pkg/runner"
+	"github.com/ducksify/naabu/v2/internal/testutils"
+	"github.com/ducksify/naabu/v2/pkg/privileges"
+	"github.com/ducksify/naabu/v2/pkg/result"
+	"github.com/ducksify/naabu/v2/pkg/runner"
 )
 
 var libraryTestcases = map[string]testutils.TestCase{

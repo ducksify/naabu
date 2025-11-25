@@ -13,10 +13,10 @@ import (
 
 	"golang.org/x/exp/slices"
 
+	"github.com/ducksify/naabu/v2/pkg/port"
+	"github.com/ducksify/naabu/v2/pkg/protocol"
 	"github.com/pkg/errors"
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/naabu/v2/pkg/port"
-	"github.com/projectdiscovery/naabu/v2/pkg/protocol"
 	"github.com/projectdiscovery/utils/structs"
 )
 
